@@ -1,15 +1,15 @@
 # Hi there, I am Jonathan aka [Sul2tech](http://sul2tech.com "Sul2tech")
 
-###  I like to learn, collaborate and connect with people with good vibes.:tw-1f61c:
+###  I like to learn, collaborate and connect with people with good vibes.😜
 
 
 
--:tw-1f4d3: ** I Am Currently Constantly Learning.**
+🐱‍🏍** I Am Currently Constantly Learning.**
 
--:tw-1f46b: **Im looking to collaborate on Machine Learning and Web Development Projects. **
+👩🏽‍🤝‍👩🏻**Im looking to collaborate on Machine Learning and Web Development Projects. **
 
--:tw-1f552: **Goals for 2022: Become a full-stack developer.**
--:tw-26a1: ** I like to have fun and produce music.
+⏳**Goals for 2022: Become a full-stack developer.**
+🎹** I like to have fun and produce music.
 **
 #### Connect with me:
 [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/brennankbrown)](https://twitter.com/brennankbrown)
