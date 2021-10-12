@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonathway&label=Profile%20views&color=0e75b6&style=flat" alt="jonathway" /> </p>
 
-- 🌱 **I Am Currently Learning**
+- 🌱 I Am Currently Constantly Learning.
 
-- 💬 . **Goals for 2022: Become a full-stack developer**
+- 💬 Goals for 2022: Become a full-stack developer.
 
 - 📫 How to reach me **sul2techrd@gmail.com**
 
-- ⚡ Fun fact **produce music, hang out with family and friends**
+- ⚡ Fun fact produce music, hang out with family and friends.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
